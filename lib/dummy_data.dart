@@ -6,37 +6,37 @@ const DUMMY_CATEGORIES = const [
   Category(
     id: 'c1',
     title: 'Italian',
-    color: Colors.purple,
+    color: Colors.lightGreen,
   ),
   Category(
     id: 'c2',
     title: 'Quick & Easy',
-    color: Colors.red,
+    color: Colors.lightGreen,
   ),
   Category(
     id: 'c3',
     title: 'Hamburgers',
-    color: Colors.orange,
+    color: Colors.lightGreen,
   ),
   Category(
     id: 'c4',
     title: 'German',
-    color: Colors.amber,
+    color: Colors.lightGreen,
   ),
   Category(
     id: 'c5',
     title: 'Light & Lovely',
-    color: Colors.blue,
+    color: Colors.lightGreen,
   ),
   Category(
     id: 'c6',
     title: 'Exotic',
-    color: Colors.green,
+    color: Colors.lightGreen,
   ),
   Category(
     id: 'c7',
     title: 'Breakfast',
-    color: Colors.lightBlue,
+    color: Colors.lightGreen,
   ),
   Category(
     id: 'c8',
@@ -46,12 +46,12 @@ const DUMMY_CATEGORIES = const [
   Category(
     id: 'c9',
     title: 'French',
-    color: Colors.pink,
+    color: Colors.lightGreen,
   ),
   Category(
     id: 'c10',
     title: 'Summer',
-    color: Colors.teal,
+    color: Colors.lightGreen,
   ),
 ];
 
@@ -384,7 +384,7 @@ const DUMMY_MEALS = const [
         'https://cdn.pixabay.com/photo/2018/04/09/18/26/asparagus-3304997_1280.jpg',
     duration: 30,
     ingredients: [
-      'White and Green Asparagus',
+      'White and lightGreen Asparagus',
       '30g Pine Nuts',
       '300g Cherry Tomatoes',
       'Salad',
